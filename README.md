@@ -1,6 +1,6 @@
 ### Hi
 
-[My github stats](https://github-readme-stats.vercel.app/api?username=Blobadoodle)]
+[My github stats](https://github-readme-stats.vercel.app/api?username=Blobadoodle)
 
 Hello, I code stuff sometimes.
 
