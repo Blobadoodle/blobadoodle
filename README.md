@@ -17,10 +17,10 @@ Hello, I code stuff sometimes.
 Discord: `Blobadoodle#1066`
 
 ### Setup
-OS: Garuda Dr460nized
-Motherboard: Aorus B550 Pro
-CPU: AMD Ryzen 5 3600
-GPU: AMD Radeon 5600 XT
+OS: Garuda Dr460nized\
+Motherboard: Aorus B550 Pro\
+CPU: AMD Ryzen 5 3600\
+GPU: AMD Radeon 5600 XT\
 RAM: 32GB
 
 ### Projects
