@@ -12,8 +12,8 @@ Hello, I code stuff sometimes.
 
 ### contacts
 
-[Twitter](https://twitter.com/BLOBADOODLE)
-[Website](https://www.lucahtaylor.com)
+[Twitter](https://twitter.com/BLOBADOODLE)\
+[Website](https://www.lucahtaylor.com)\
 Discord: `Blobadoodle#1066`
 
 ### Setup
@@ -27,6 +27,6 @@ RAM: 32GB
 
 protOS: I stopped working on this because i have no idea what im doing
 
-pkgman: Package manager wrote in python purely for practice/fun
+digitalplums: A digital 'currency' wrote with python and flask
 
 My website: not much to say, looking for ideas on what to add to it tho.
