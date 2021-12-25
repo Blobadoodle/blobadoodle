@@ -13,7 +13,7 @@ Hello, I code stuff sometimes.
 ### contacts
 
 [Twitter](https://twitter.com/BLOBADOODLE)\
-[Website](https://www.lucahtaylor.com)\
+[Website](https://bloba.dev)\
 Discord: `Blobadoodle#1066`
 
 ### Setup
