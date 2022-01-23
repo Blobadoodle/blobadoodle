@@ -25,10 +25,6 @@ RAM: 32GB
 
 ### Projects
 
-protOS: I stopped working on this because i have no idea what im doing
-
-digitalplums: A digital 'currency' wrote with python and flask
-
 My website: not much to say, looking for ideas on what to add to it tho.
 
 e621bot: A discord bot for viewing the e621 website
