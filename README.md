@@ -2,12 +2,12 @@
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Blobadoodle)](https://github.com/anuraghazra/github-readme-stats)
 
-Hello, I code stuff sometimes.
+Hey, I code stuff sometimes.
 
 #### Languages i know:
  * Python
  * Javascript
- * HTML/Css (kind of)
+ * HTML/CSS
  * C (kind of)
  * C# (kind of)
 
