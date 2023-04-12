@@ -29,5 +29,3 @@ RAM: 32GB
 ### Projects
 
 My website: not much to say, looking for ideas on what to add to it tho.
-
-e621bot: A discord bot for viewing the e621 website
