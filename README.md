@@ -16,7 +16,7 @@ Hey, I code stuff sometimes.
 
 [Twitter](https://twitter.com/BLOBADOODLE)\
 [Website](https://bloba.dev)\
-Discord: `Blobadoodle#1066`\
+Discord: @blobadoodle\
 [![Discord Presence](https://lanyard.cnrad.dev/api/429299975252606989)](https://discord.com/users/429299975252606989)
 
 ### Setup
