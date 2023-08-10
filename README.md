@@ -10,7 +10,7 @@ Hey, I code stuff sometimes.
  * Javascript
  * HTML/CSS
  * C (kind of)
- * C# (kind of)
+ * Rust (kind of)
 
 ### contacts
 
@@ -20,12 +20,7 @@ Discord: @blobadoodle\
 [![Discord Presence](https://lanyard.cnrad.dev/api/429299975252606989)](https://discord.com/users/429299975252606989)
 
 ### Setup
-OS: Endeavour OS\
 Motherboard: Aorus B550 Pro\
-CPU: AMD Ryzen 5 3600\
-GPU: AMD Radeon 5600 XT\
-RAM: 32GB
-
-### Projects
-
-My website: not much to say, looking for ideas on what to add to it tho.
+CPU: AMD Ryzen 7 5800X3D\
+GPU: MSI AMD Radeon 6700 XT\
+RAM: 32GB 3600
