@@ -1,26 +1,29 @@
 ### Hi
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Blobadoodle)](https://github.com/anuraghazra/github-readme-stats)\
 ![](https://komarev.com/ghpvc/?username=Blobadoodle)
 
-Hey, I code stuff sometimes.
+Hi, I code stuff sometimes.
 
-#### Languages i know:
+#### Languages
+ * Luau
  * Python
  * Javascript
- * HTML/CSS
+ * HTML, CSS
  * C (kind of)
  * Rust (kind of)
 
-### contacts
+### Contacts
 
-[Twitter](https://twitter.com/BLOBADOODLE)\
-[Website](https://bloba.dev)\
+Twitter: [@blobadoodle](https://twitter.com/Blobadoodle)\
+Website: [bloba.dev](https://bloba.dev)\
 Discord: @blobadoodle\
+Email: [me\@bloba.dev](mailto:me@bloba.dev)\
 [![Discord Presence](https://lanyard.cnrad.dev/api/429299975252606989)](https://discord.com/users/429299975252606989)
 
 ### Setup
 Motherboard: Aorus B550 Pro\
 CPU: AMD Ryzen 7 5800X3D\
 GPU: MSI AMD Radeon 6700 XT\
-RAM: 32GB 3600
+RAM: 32GB 3600\
+\
+Woof.
